@@ -21,7 +21,7 @@
   <nav id="navbar">
     <div class="container">
       <ul>
-        <li><a href="index.php" onclick="myFunction3()">HOME</a></li>
+        <li><a href="index.php" onclick="myFunction3()">HEHEHEHE</a></li>
         </li>
       </ul>
     </div>
